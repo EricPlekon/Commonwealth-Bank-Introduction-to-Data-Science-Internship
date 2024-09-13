@@ -1,4 +1,4 @@
-# Commonwealth-Bank-Introduction-to-Data-Science-Job-Simulation
+# Commonwealth-Bank-Introduction-to-Data-Science-Internship
 
 Internship
 July 2024
